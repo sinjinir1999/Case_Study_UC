@@ -1,6 +1,6 @@
 
 # 🚀 Case Study || UC
-![](https://user-images.githubusercontent.com/67474818/132960881-f3867344-7e1c-4795-9d4d-d56969fe38a1.gif)
+![](https://user-images.githubusercontent.com/67474818/132960881-f3867344-7e1c-4795-9d4d-d56969fe38a1.png)
 
 - Question 1 :
 Count month wise deliveries 
