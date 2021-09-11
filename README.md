@@ -1,5 +1,6 @@
 
 # 🚀 Case Study || UC
+![](https://images.app.goo.gl/X4LnuQAPkvLFJgz8A.gif)
 
 - Question 1 :
 Count month wise deliveries 
